@@ -1,0 +1,26 @@
+﻿body {
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+.GridPager a, .GridPager span {
+    display: block;
+    height: 24px;
+    width: 15px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    margin-right:4px;
+}
+
+.GridPager a {
+    color: #808080;
+    border: 1px solid #969696;
+    margin-right:4px;
+}
+
+.GridPager span {
+    background-color: #A1DCF2;
+    color: #000;
+    border: 1px solid #3AC0F2;
+}
